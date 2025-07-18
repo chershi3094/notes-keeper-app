@@ -1,0 +1,14 @@
+/* index.css */
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to right, #e0f7fa, #fce4ec); /* Teal to Pink */
+  font-family: 'Segoe UI', sans-serif;
+  min-height: 100vh;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 30px;
+  color: #333;
+}
