@@ -37,3 +37,4 @@ notes-keeper-app/
 │
 ├── README.md
 └── package.json
+<img width="1920" height="1080" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/8832caf4-1167-4f7c-bf85-0e9612967ebb" />
